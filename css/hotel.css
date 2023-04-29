@@ -1,0 +1,21 @@
+.bg-nav-color {
+    background-color: black;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+html, body, header, nav {
+ margin: 0 !important;
+ width: 100%;
+ padding: 0 !important;
+}
+
+.txt-nav-color { 
+    color: #fff;
+}
+
+.txt-nav-color {
+    background-color: transparent !important;
+}
